@@ -1,4 +1,4 @@
 # Orbiting-Planet-Animation
 using CSS only
 
-https://cosmin-web-ux.github.io/Orbiting-Planet-Animation/.
+Check it out at https://cosmin-web-ux.github.io/Orbiting-Planet-Animation/.
